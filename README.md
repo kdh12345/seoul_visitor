@@ -9,3 +9,6 @@ Applied Machine Learning 적용
 그 중에서 cikit-learn package을 이용하여
 The k-Nearest Neighbor(k-NN) Algorithm 머신러닝 알고리즘 적용하였습니다.
 
+X축에 '남성인원','여성인원','승무원인원'
+Y축에 'label'로 설정하여 값을 입력하여 해당 관광객이 어디 출신인지 예측하는 코드를 구현하였습니다.
+
